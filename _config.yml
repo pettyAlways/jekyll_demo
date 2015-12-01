@@ -9,7 +9,7 @@
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
- ...
+ 旺大屌
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
@@ -17,3 +17,5 @@ github_username:  goodman
 
 # Build settings
 markdown: kramdown
+encoding: UTF-8
+
